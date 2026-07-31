@@ -22,13 +22,13 @@ a:hover {
   opacity: .5;
   color:coral;
 }
+
 ul {
   display: flex;
   justify-content: center;
   text-align: center;
   gap: 90px;
   margin-top: 24px;
-  
 }
 
 h1 {
